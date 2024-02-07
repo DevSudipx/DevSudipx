@@ -15,9 +15,6 @@ I'm a passionate reverse engineer with expertise in Java, Python, and HTML. Cons
 
 - [C++]
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSudipx=true&theme=radical)
 
 ## 🚀 Connect with Me
 
