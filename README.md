@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sudipx - Reverse Engineer Extraordinaire!
 
-![Profile Banner](https://telegra.ph/Coding-02-07)]
+![Profile Banner](https://images.app.goo.gl/WWMHB23X57FC4zN18)]
 
 I'm a passionate reverse engineer with expertise in Java, Python, and HTML. Constantly exploring and learning in the ever-evolving world of technology.
 
