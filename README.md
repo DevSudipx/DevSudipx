@@ -1,28 +1,24 @@
-# 👋 Hello, I'm Sudipx - Reverse Engineer Extraordinaire!
+<h1 align="center">Hi 👋, I'm SUDIPX - Reverse Engineer Extraordinaire!</h1>
+<h3 align="center">A Android developer from India</h3>
 
-![Profile Banner](https://images.app.goo.gl/WWMHB23X57FC4zN18)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devsudipx&label=Profile%20views&color=0e75b6&style=flat" alt="devsudipx" /> </p>
 
-I'm a passionate reverse engineer with expertise in Java, Python, and HTML. Constantly exploring and learning in the ever-evolving world of technology.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsudipx" alt="devsudipx" /></a> </p>
 
-## 🔧 Technologies & Tools
+- 🌱 I’m currently learning **C++ & Python**
 
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-- [Add more as per your skills]
+- 📫 How to reach me **Devsudipx@gmail.com**
 
-## 🌱 Currently Learning
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://t.me/devsudipx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://t.me/devsudipx" height="30" width="40" /></a>
+<a href="https://instagram.com/dev_sudipx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_sudipx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/moddingzonex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moddingzonex" height="30" width="40" /></a>
+</p>
 
-- [C++]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsudipx&show_icons=true&locale=en&layout=compact" alt="devsudipx" /></p>
 
-## 🚀 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](your_linkedin_profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](your_twitter_profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat-square)](your_portfolio)
-
-Feel free to explore my repositories and reach out for collaboration or discussions. Happy coding! 🚀
-```
-
-This template includes shields for technologies, a stylish GitHub Stats card, and social badges. Remember to replace the placeholders with your actual information and links. Feel free to tweak the styles and layout to suit your preferences.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsudipx&show_icons=true&locale=en" alt="devsudipx" /></p>
