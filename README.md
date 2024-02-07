@@ -6,11 +6,9 @@
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsudipx" alt="devsudipx" /></a> </p>
+- 🧑‍💻 I’m currently learning **C++ & Python**
 
-- 🌱 I’m currently learning **C++ & Python**
-
-- 📫 How to reach me **Devsudipx@gmail.com**
+- 📧 How to reach me **Devsudipx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
