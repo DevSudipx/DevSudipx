@@ -1,7 +1,7 @@
 Certainly! Here's a basic template for your GitHub profile README.md file:
 
 ```markdown
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sudipx 👋
 
 ![Profile Banner](link_to_your_banner_image)
 
