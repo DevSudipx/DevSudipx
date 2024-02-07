@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/https://t.me/devsudipx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://t.me/devsudipx" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_sudipx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_sudipx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/moddingzonex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moddingzonex" height="30" width="40" /></a>
+<a href="https://youtube.com/@ModdingzoneX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moddingzonex" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
