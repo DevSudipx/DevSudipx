@@ -16,6 +16,7 @@
 
 - Iᴀᴍ 𝟷𝟾 Yᴇᴀʀ Oʟᴅ [ Aɴᴅʀᴏɪᴅ Rᴇᴠᴇʀsᴇʀ Fʀᴏᴍ Iɴᴅɪᴀɴ🇮🇳 ] 
 - Lᴏᴠᴇ Fʀᴏᴍ Tᴇᴄʜ & Lᴏᴠᴇ Tᴏ Lᴇᴀʀɴ Nᴇᴡ Tʜɪɴɢs ❣
+- I Aᴍ Nᴏᴛ A Pʀᴏғᴇssɪᴏɴᴀʟ, I Jᴜsᴛ Dᴏ Iᴛ Fᴏʀ Fᴜɴ ✨🌩
 
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
